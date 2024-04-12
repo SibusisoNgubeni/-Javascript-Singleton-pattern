@@ -18,10 +18,18 @@ After refactoring, I used the ternary operator to simplify the if-else statement
         return bankBranchInstance;
 
 
+<<<<<<< HEAD
 i struggled to get a positive output on my VS code console.
+=======
+i struggled to get a positive output on my VS code console, i kept getting a "Reference error!"
+>>>>>>> 8ff5fc4994c25d22c2927a15ce593db5ec1fcad7
 
 ![alt text](<VSC console.png>)
 
 But on scrimba i got a positve output on the console, im not sure why.
 
 ![alt text](<Scrimba console.png>)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8ff5fc4994c25d22c2927a15ce593db5ec1fcad7
