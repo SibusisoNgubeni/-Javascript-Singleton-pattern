@@ -20,7 +20,7 @@ After refactoring, I used the ternary operator to simplify the if-else statement
 
 
 i struggled to get a positive output on my VS code console.
-=======
+
 i struggled to get a positive output on my VS code console, i kept getting a "Reference error!"
 
 
